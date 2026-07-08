@@ -1,37 +1,43 @@
-# Привет! 👋
+<h1 align="center">Hi, I'm Davlat 👋</h1>
 
-Я Davlat — Frontend Developer.
-
-Люблю создавать современные веб-приложения, изучаю новые технологии и постепенно углубляюсь в backend и архитектуру.
-
----
-
-## 🚀 Технологии
-
-- TypeScript
-- JavaScript
-- React
-- Next.js
-- Tailwind CSS
-- Node.js
+<p align="center">
+Frontend Developer • Next.js • React • TypeScript
+</p>
 
 ---
 
-## 📚 Сейчас изучаю
+## 👨‍💻 Обо мне
+
+- 🚀 Frontend Developer
+- 🌱 Изучаю Backend и System Design
+- 💡 Люблю создавать современные веб-приложения
+- 🎯 Цель — создавать качественные SaaS-продукты
+
+---
+
+## 🛠️ Технологии
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,git,github,vscode,linux" />
+</p>
+
+---
+
+## 📌 Сейчас работаю над
+
+- Universal Bot
+- Post Generator
+
+---
+
+## 📖 Сейчас изучаю
 
 - System Design
-- Backend Development
 - Algorithms
-- Open Source
-
----
-
-## ⭐ Основные проекты
-
-- Пока нет публичных
+- Backend Development
 
 ---
 
 ## 📫 Контакты
 
-- пока думаю что тут оставить :)
+Пока в разработке.
