@@ -1,6 +1,13 @@
 <div align="center">
 
-# Davlat
+```txt
+██████╗  █████╗ ██╗   ██╗██╗      █████╗ ████████╗
+██╔══██╗██╔══██╗██║   ██║██║     ██╔══██╗╚══██╔══╝
+██║  ██║███████║██║   ██║██║     ███████║   ██║
+██║  ██║██╔══██║╚██╗ ██╔╝██║     ██╔══██║   ██║
+██████╔╝██║  ██║ ╚████╔╝ ███████╗██║  ██║   ██║
+╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝   ╚═╝
+```
 
 Frontend Developer focused on building fast, modern web applications.
 
@@ -53,6 +60,19 @@ Currently, my focus is on building production-ready projects while continuously 
 - Grow as a full-stack engineer
 
 ---
+
+╭──────────────────────────────────────────────╮
+│ davlat@github                                │
+├──────────────────────────────────────────────┤
+│ $ whoami                                     │
+│ Frontend Developer                           │
+│                                              │
+│ $ tech                                       │
+│ React • Next.js • TypeScript • Node.js       │
+│                                              │
+│ $ status                                     │
+│ Building production-ready applications... █  │
+╰──────────────────────────────────────────────╯
 
 <div align="center">
 
