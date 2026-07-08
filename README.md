@@ -1,16 +1,37 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**davlatcore/davlatcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Davlat — Frontend Developer.
 
-Here are some ideas to get you started:
+Люблю создавать современные веб-приложения, изучаю новые технологии и постепенно углубляюсь в backend и архитектуру.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Технологии
+
+- TypeScript
+- JavaScript
+- React
+- Next.js
+- Tailwind CSS
+- Node.js
+
+---
+
+## 📚 Сейчас изучаю
+
+- System Design
+- Backend Development
+- Algorithms
+- Open Source
+
+---
+
+## ⭐ Основные проекты
+
+- Пока нет публичных
+
+---
+
+## 📫 Контакты
+
+- пока думаю что тут оставить :)
