@@ -1,43 +1,61 @@
-<h1 align="center">Hi, I'm Davlat 👋</h1>
+<div align="center">
 
-<p align="center">
-Frontend Developer • Next.js • React • TypeScript
-</p>
+# Davlat
 
----
+Frontend Developer focused on building fast, modern web applications.
 
-## 👨‍💻 Обо мне
+Currently mastering **Next.js**, **TypeScript**, **System Design** and **Backend Development**.
 
-- 🚀 Frontend Developer
-- 🌱 Изучаю Backend и System Design
-- 💡 Люблю создавать современные веб-приложения
-- 🎯 Цель — создавать качественные SaaS-продукты
+</div>
 
 ---
 
-## 🛠️ Технологии
+## About
+
+I'm a frontend developer passionate about creating clean interfaces and scalable applications.
+
+I enjoy learning how modern software works—from beautiful UI to backend architecture.
+
+Currently, my focus is on building production-ready projects while continuously improving my engineering skills.
+
+---
+
+## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,git,github,vscode,linux" />
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,git,github,docker,linux,vscode" />
+
 </p>
 
 ---
 
-## 📌 Сейчас работаю над
+## Current Focus
 
-- Universal Bot
-- Post Generator
-
----
-
-## 📖 Сейчас изучаю
-
-- System Design
-- Algorithms
-- Backend Development
+- Building high-quality SaaS applications
+- Learning backend architecture
+- Improving system design knowledge
+- Writing clean and maintainable code
+- Contributing to open source
 
 ---
 
-## 📫 Контакты
+## Featured Projects
 
-Пока в разработке.
+---
+
+## Goals for 2026
+
+- Build production-grade SaaS products
+- Deepen backend expertise
+- Contribute to open source
+- Master system design
+- Grow as a full-stack engineer
+
+---
+
+<div align="center">
+
+*"Code is written for humans first, computers second."*
+
+</div>
